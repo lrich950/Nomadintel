@@ -237,8 +237,8 @@ Our website may contain links to third-party websites. We are not responsible fo
 
 For privacy-related questions or requests:
 
-**Email**: [your-email@example.com]  
-**Website**: [your-website.com]
+**Email**: [luca.rich99@icloud.com]  
+**Website**: [[(https://lrich950.github.io/Nomadintel/)]]
 
 For data access, correction, or deletion requests, please include:
 - Your name
